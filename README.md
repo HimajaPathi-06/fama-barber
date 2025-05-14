@@ -4,7 +4,7 @@ A sleek and modern landing page for Fama Barber Shop & Beauty Salon, designed to
 
 ## Live Demo
 
-[Visit the website]()
+[Visit the website](https://fama-barber-five-phi.vercel.app/)
 
 ## Features
 
